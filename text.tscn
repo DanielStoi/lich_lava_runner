@@ -1,0 +1,9 @@
+[gd_scene format=2]
+
+[node name="text" type="RichTextLabel"]
+margin_right = 312.0
+margin_bottom = 163.0
+text = "sample text"
+__meta__ = {
+"_edit_use_anchors_": false
+}

@@ -8,6 +8,7 @@
 extents = Vector2( 5901.5, 591.5 )
 
 [node name="LavaFloor" type="Sprite"]
+modulate = Color( 2, 1.1, 1.1, 1 )
 position = Vector2( 1026, 0 )
 texture = ExtResource( 1 )
 region_enabled = true
