@@ -2,7 +2,7 @@
 
 
 Can be played on the brower at 
-https://t3sser.itch.io/lich-lava-runner
+https://daniel2d.itch.io/lich-lava-runner
 
 ![demo](./game%20lava%20lich.PNG)
 
